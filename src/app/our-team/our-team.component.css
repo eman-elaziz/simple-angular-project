@@ -1,0 +1,11 @@
+#ourTeam{
+    padding: 5rem 0;
+}
+button{
+    border-color:rgb(236, 50, 55)!important;
+    color:rgb(236, 50, 55)
+}
+button:hover{
+    color:white !important;
+    background-color: rgb(236, 50, 55);
+}
